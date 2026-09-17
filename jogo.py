@@ -23,8 +23,8 @@ sprites = [
     "poke.png",
     "great.png",
     "ultra.png",
-    "sprite4.png",
-    "sprite5.png"
+    "love.png",
+    "master.png"
 ]
 
 imagens = []
